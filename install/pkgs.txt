@@ -2,15 +2,21 @@
 gnome-keyring
 polkit-gnome
 
-# Browser
-helium-browser-bin
-zen-browser-bin
+# Privacy
+mullvad-vpn
+brave-bin
+tor
+
+# Productivity
+spotify-launcher
+
+# Social
+discord
 
 # Development
 git
 lazygit
-neovim
-visual-studio-code-bin
+cursor-bin
 
 # Terminal & Shell
 ghostty
@@ -29,12 +35,10 @@ bc
 
 # Hyprland Ecosystem
 hyprland
-hyprland-guiutils
+hyprland-qtutils
 hyprland-qt-support
 hyprpaper
 hyprpicker
-hypridle
-hyprlock
 xdg-desktop-portal-hyprland
 hyprsunset
 hyprcursor
@@ -61,6 +65,7 @@ loupe
 # Audio
 pamixer
 wiremix
+pavucontrol
 
 # Bluetooth & Network
 bluez
